@@ -1,5 +1,5 @@
 # Swire-CC-Innovation-Demand-Forecasting
-                                                      ![Swire CC- black cropped](https://github.com/RawaliMale/Swire-CC-Innovation-Demand-Forecasting/assets/139506913/c7df983f-3e55-42ad-ad62-651084bc0f62)
+ ![Swire CC- black cropped](https://github.com/RawaliMale/Swire-CC-Innovation-Demand-Forecasting/assets/139506913/c7df983f-3e55-42ad-ad62-651084bc0f62)
 
 
 
