@@ -1,6 +1,7 @@
 # Swire-CC-Innovation-Demand-Forecasting
 
-![Swire CC- black cropped](https://github.com/RawaliMale/Swire-CC-Innovation-Demand-Forecasting/assets/139506913/86ed3cd5-b662-47b0-880e-5376895053e4)
+![swire_coca_cola_usa_logo](https://github.com/RawaliMale/Swire-CC-Innovation-Demand-Forecasting/assets/139506913/7c266888-ae4f-4399-a4e2-bf12c8590d07)
+
 
 
  
