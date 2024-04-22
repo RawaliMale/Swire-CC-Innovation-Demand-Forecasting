@@ -1,5 +1,7 @@
 # Swire-CC-Innovation-Demand-Forecasting
 
+![Swire CC- black cropped](https://github.com/RawaliMale/Swire-CC-Innovation-Demand-Forecasting/assets/139506913/86ed3cd5-b662-47b0-880e-5376895053e4)
+
 
  
 ### Business Problem & Problem Objective:
